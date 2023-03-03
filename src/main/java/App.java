@@ -24,13 +24,5 @@ public class App {
         System.out.println(beanCat == bean4Cat);
     }
 
-//        Cat bean3Cat =
-//                (Cat) applicationContext.getBean("cat");
-//        System.out.println(bean.getMessage());
-//
-//        Cat bean4Cat =
-//                (Cat) applicationContext.getBean("cat");
-//        System.out.println(bean3Cat.getMessage());
-//        System.out.println(bean4Cat == bean3Cat);
-//    }
+
 }
